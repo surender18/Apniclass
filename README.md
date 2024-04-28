@@ -1,2 +1,1 @@
-# Apniclass
-webpage with tailwind css
+# CardwithTailwind
